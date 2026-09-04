@@ -1,0 +1,10 @@
+.git
+.gitignore
+.DS_Store
+**/.DS_Store
+*.md
+CHANGELOG
+LICENSE
+NODEPLOY
+deploy.sh
+start.sh
